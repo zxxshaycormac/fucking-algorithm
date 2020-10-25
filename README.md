@@ -1,8 +1,23 @@
 English version repo and Gitbook is on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english). Just enjoy：)
 
-![starHistory](./starHistory.jpg)
-
 # labuladong 的算法小抄
+
+<p align='center'>
+<a href="https://labuladong.gitbook.io/algo" target="_blank"><img alt="Website" src="https://img.shields.io/website?label=%E5%9C%A8%E7%BA%BF%E7%94%B5%E5%AD%90%E4%B9%A6&style=flat-square&down_color=blue&down_message=%E7%82%B9%E8%BF%99%E9%87%8C&up_color=blue&up_message=%E7%82%B9%E8%BF%99%E9%87%8C&url=https%3A%2F%2Flabuladong.gitbook.io%2Falgo&logo=Gitea"></a>
+<a href="https://github.com/labuladong/fucking-algorithm" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/labuladong/fucking-algorithm?label=Stars&style=flat-square&logo=GitHub"></a>
+</p>
+
+<p align='center'>
+<a href="https://www.github.com/labuladong" target="_blank"><img src="https://img.shields.io/badge/作者-@labuladong-000000.svg?style=flat-square&logo=GitHub"></a>
+<a href="https://www.zhihu.com/people/labuladong" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@labuladong-000000.svg?style=flat-square&logo=Zhihu"></a>
+<a href="https://i.loli.net/2020/10/10/MhRTyUKfXZOlQYN.jpg" target="_blank"><img src="https://img.shields.io/badge/公众号-@labuladong-000000.svg?style=flat-square&logo=WeChat"></a>
+<a href="https://space.bilibili.com/14089380" target="_blank"><img src="https://img.shields.io/badge/B站-@labuladong-000000.svg?style=flat-square&logo=Bilibili"></a>
+</p>
+
+<p align='center'>
+<img src="https://gitee.com/labuladong/pictures/raw/master/starHistory.png" width = "600" />
+</p>
+
 
 本仓库总共 60 多篇原创文章，都是基于 LeetCode 的题目，涵盖了所有题型和技巧，而且一定要做到**举一反三，通俗易懂**，绝不是简单的代码堆砌，后面有目录。
 
@@ -18,15 +33,21 @@ English version repo and Gitbook is on [english branch](https://github.com/labul
 
 1、**先给本仓库点个 star，满足一下我的虚荣心**，文章质量绝对值你一个 star。我还在继续创作，给我一点继续写文的动力，感谢。
 
-2、欢迎关注 [我的知乎](https://www.zhihu.com/people/labuladong)。
-
-3、可以在我的 Gitbook 上查看，未来大部分新的文章都会更新到网页，**建议收藏**方便电脑端查看文章：
+2、**建议收藏我的 Gitbook 网站，每篇文章开头都有对应的力扣题目链接，可以边看文章边刷题**：
 
 Gitbook 地址：https://labuladong.gitbook.io/algo/
 
-我一直在写优质文章，但是后续的文章只发布到我的网站/知乎，不能开放到 GitHub。因为本仓库太火了，很多人直接拿我的文章去开付费专栏，价格还不便宜，我这免费写给您看，何必掏冤枉钱呢？所以多多关注本作者，多多宣传，谁也不希望劣币驱逐良币不是么？
+2、建议关注我的公众号 **labuladong**，坚持高质量原创，说是最良心最硬核的技术公众号都不为过。本仓库的文章就是从公众号里整理出来的**一部分**内容，公众号后台回复关键词【电子书】可以获得这份小抄的完整版本；回复【加群】可以加入我们的刷题群，和大家一起讨论算法问题，分享内推机会：
 
-其他的先不多说了，直接上干货吧，我们一起日穿 LeetCode，感受一下支配算法的乐趣。
+<p align='center'>
+<img src="https://gitee.com/labuladong/pictures/raw/master/qrcode.jpg" width = "200" />
+</p>
+
+4、欢迎关注 [我的知乎](https://www.zhihu.com/people/labuladong)。
+
+我一直在写优质文章，但是后续的文章只发布到公众号/gitbook/知乎，不能开放到 GitHub。因为本仓库太火了，很多人直接拿我的文章去开付费专栏，价格还不便宜，我这免费写给您看，何必掏冤枉钱呢？所以多多关注本作者，多多宣传，谁也不希望劣币驱逐良币不是么？
+
+其他的先不多说了，直接上干货吧，我们一起搞定 LeetCode，感受一下支配算法的乐趣。
 
 # 目录
 
